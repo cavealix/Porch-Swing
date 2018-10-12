@@ -17,7 +17,7 @@ public class HotSpotText : MonoBehaviour {
 	}
 
     // Display text when reticle hovers over
-    void DisplayText () {
+    public void DisplayText () {
 
     }
 }
